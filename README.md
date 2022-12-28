@@ -29,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I'm learning a lot from the 
 
 <br/>
 
-- 📫 I can be reached on social media using the handles above👆🏾 or feel free to shoot me a mail at <img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/mail.jpeg" height="30" /> topebabs01@gmail.com
+- 📫 I can be reached on social media using the handles above👆🏾 or feel free to shoot me a mail at <img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/gmail.jpeg" height="30" /> topebabs01@gmail.com
 
 <br/>
 
