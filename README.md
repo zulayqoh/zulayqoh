@@ -37,8 +37,5 @@ I am also an open-source enthusiast and maintainer. I'm learning a lot from the 
 
 
 <p align='center'>
-<a href="https://www.instagram.com/bash_grey/"><img height="50" alt="Temi's Instagram" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/instagram.jpeg"></a>
-<a href="https://web.facebook.com/profile.php?id=100003714916486"><img height="50" alt="Temi's Facebook" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/facebook.jpeg"></a>
-<a href="https://twitter.com/bash_grey"><img height="50" alt="temi's Twitter" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/twitter.jpeg"></a>
 <a href="https://www.linkedin.com/in/temitope-babatunde-28874b209/"><img height="50" alt="temi's LinkedIn" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/linkedin.jpeg"></a>
 </p>
