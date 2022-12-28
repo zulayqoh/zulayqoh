@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 -->
 
 
-- 👋 Hi,<br/> My name is Bashir, but my friends call me Bash. You can too!🥳
+- 👋 Hi,<br/> My name is Temi. You can too!🥳
 I am a software engineer from Nigeria. I enjoy travelling and living the soft life.
 I am also an open-source enthusiast and maintainer. I'm learning a lot from the open-source community and love how collaboration and knowledge sharing happens through open-source.
 
  <br/>
  
-- 🌱 I work mostly with Swift, UIKit, SwiftUI and Python. I have experience building cross-platform mobile products using Flutter and Dart. I have built awesome products and can work in a cross-functional team. I am well versed in web development tools like HTLM, CSS, Javascript, Bootstrap and MongoDB. I am also a cloud engineer specializing in AWS Cloud Computing. Github serves as a host for the professional projects I've worked on as well as fun projects I'll be handling in order to master new concepts and frameworks.
+- 🌱 I work mostly with Swift, UIKit, SwiftUI and Dart. I have experience building cross-platform mobile products using Flutter and Dart. I have built awesome products and can work in a cross-functional team. I am well versed in web development tools like HTLM, CSS, Javascript, Bootstrap and MongoDB. I am also a cloud engineer specializing in AWS Cloud Computing. Github serves as a host for the professional projects I've worked on as well as fun projects I'll be handling in order to master new concepts and frameworks.
 <br/>
 
 - 💞️ I’m looking to collaborate on more open-source projects in the community.
 
 <br/>
 
-- 📫 I can be reached on social media using the handles above👆🏾 or feel free to shoot me a mail at <img alt="Bash's Mail" src="https://raw.githubusercontent.com/BashirYesufu/BashirYesufu/main/assets/gmail.jpg" height="30" /> yesufubashir@gmail.com
+- 📫 I can be reached on social media using the handles above👆🏾 or feel free to shoot me a mail at <img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/gmail.jpg" height="30" /> topebabs01@gmail.com
 
 <br/>
 
