@@ -31,7 +31,7 @@ I am an enthusiast and maintainer. I'm learning a lot from the open-source commu
 
 <br/>
 
-- 📫 You can reach out to me via my <a href="https://www.linkedin.com/in/temitope-babatunde-28874b209/">linkedIn</a> or feel free to drop a mail at<br/><img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/gmail.jpeg" height="30" />topebabs01@gmail.com
+- 📫 You can reach out to me via my <a href="https://www.linkedin.com/in/temitope-babatunde-28874b209/">linkedIn</a> or feel free to drop a mail at<img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/gmail.jpeg" height="30" />topebabs01@gmail.com
 
 
 <br/>
