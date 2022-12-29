@@ -26,7 +26,7 @@ I am an enthusiast and maintainer. I'm learning a lot from the open-source commu
 - 💞️ I’m looking to collaborate on more open-source projects in the community.
 
 <br/>
-- 📫 You can reach out to me via my <a href="https://www.linkedin.com/in/temitope-babatunde-28874b209/">linkedIn</a> or feel free to drop a mail to <img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/gmail.jpeg" height="30" /> topebabs01@gmail.com
+- 📫 You can reach out to me via my <a href="https://www.linkedin.com/in/temitope-babatunde-28874b209/">linkedIn</a> or feel free to drop a mail to<img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/gmail.jpeg" height="30" />topebabs01@gmail.com
 <br/>
 
 <p align='center'>
