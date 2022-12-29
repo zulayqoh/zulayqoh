@@ -21,15 +21,19 @@ I am an enthusiast and maintainer. I'm learning a lot from the open-source commu
 
  <br/>
  
-- 🌱 I work with Swift for UIKit and SwiftUI and Dart for Flutter. I have experience building both iOS Native and cross-platform mobile products using Flutter and Dart. I have contributed to some awesome products and work in a cross-functional teams. I have a few of my "play-around" works on Github. 
+- 🌱 I work with Swift for UIKit and SwiftUI and Dart for Flutter. I have experience building both iOS Native and cross-platform mobile products using Flutter and Dart. I have contributed to some awesome products and work in cross-functional teams. I have a few of my "play-around" works on Github. 
 
 <br/>
 
-- 🔭 I also busy myself with mentoring candidates who would love to join the programing work force to serve as a quota of my "pay-back" to the community. And I enjoy every bit of it.⚡⚡⚡
+- 🔭 I also busy myself with mentoring candidates who would love to join the programing work force. This serve as a quota of my "pay-back" to the community. And I enjoy every bit of it.⚡⚡⚡
+
 - 💞️ I’m looking to collaborate on more open-source projects in the community.
 
 <br/>
-- 📫 You can reach out to me via my <a href="https://www.linkedin.com/in/temitope-babatunde-28874b209/">linkedIn</a> or feel free to drop a mail to<br/><img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/gmail.jpeg" height="30" />topebabs01@gmail.com
+
+- 📫 You can reach out to me via my <a href="https://www.linkedin.com/in/temitope-babatunde-28874b209/">linkedIn</a> or feel free to drop a mail at<br/><img alt="Temi's mail" src="https://raw.githubusercontent.com/zulayqoh/zulayqoh/main/assets/gmail.jpeg" height="30" />topebabs01@gmail.com
+
+
 <br/>
 
 <p align='center'>
