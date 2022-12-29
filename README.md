@@ -25,7 +25,7 @@ I am an enthusiast and maintainer. I'm learning a lot from the open-source commu
 
 <br/>
 
-- 🔭 I also busy myself with mentoring candidates who would love to join the programing work force. This serve as a quota of my "pay-back" to the community. And I enjoy every bit of it.⚡⚡⚡
+- 🔭 I also busy myself with mentoring candidates who would love to join the programing work force. This serve as a quota of my "pay-back" to the community. And I enjoy every bit of it.⚡⚡⚡<br>
 
 
 - 💞️ I’m looking to collaborate on more open-source projects in the community.
